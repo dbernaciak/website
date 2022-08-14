@@ -31,7 +31,7 @@ education:
     institution: University College London
     year: 2018 - 2020
   - course: BSc in Mathematics
-    institution: University of Flasgow
+    institution: University of Glasgow
     year: 2012 - 2015
 
 # Social/Academic Networking
